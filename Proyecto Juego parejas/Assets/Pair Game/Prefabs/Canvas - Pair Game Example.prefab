@@ -578,18 +578,10 @@ MonoBehaviour:
   m_Timer: {fileID: 2211863317073515229}
   m_TriesManager: {fileID: 2211863317073515226}
   m_Items:
-  - {fileID: 21300000, guid: 32b092da12ab44ce4ac42dc281123fc8, type: 3}
-  - {fileID: 21300000, guid: afd2b5f7ee7cf4b14af75c77643ef2bd, type: 3}
-  - {fileID: 21300000, guid: 10fda18ee1b45434aa13291e26b37e5a, type: 3}
-  - {fileID: 21300000, guid: 60de3c572db124ec99c62880b7ae06e5, type: 3}
-  - {fileID: 21300000, guid: 784e053e265e645fb86b13d5438f816a, type: 3}
-  - {fileID: 21300000, guid: 2ef596d4dfd12409c93ad96c86f38611, type: 3}
-  - {fileID: 21300000, guid: c041df8ff9e774fa282a43c35dc47e43, type: 3}
-  - {fileID: 21300000, guid: 5aebc7ff00a704dd8bf9ca4c910decae, type: 3}
-  - {fileID: 21300000, guid: 65d0cd694209f45e6aced8f7ad7d217f, type: 3}
-  - {fileID: 21300000, guid: 3e1a2186817bd4f9fbe1808b76f2f29a, type: 3}
-  - {fileID: 21300000, guid: b7d9b518d198c4b778e7dfa1d3f74a6e, type: 3}
-  - {fileID: 21300000, guid: 3917c6b5de4494dad94b4c2f05435a5a, type: 3}
+  - {fileID: 21300000, guid: 4a7b485d00f872b48b5d6aff8c34f9e3, type: 3}
+  - {fileID: 21300000, guid: 902b1096f3097c8449507b44bb6af863, type: 3}
+  - {fileID: 21300000, guid: 22c439beafc0c8c4c9376b815d4e1c8e, type: 3}
+  - {fileID: 21300000, guid: 0bd1921f5dbd37e4793d5c4a693a084e, type: 3}
   m_GridLayoutOverridesDictionary:
     m_keys:
     - {x: 3, y: 2}
@@ -602,9 +594,9 @@ MonoBehaviour:
       Spacing: {x: 10, y: 10}
     - GridCellSize: {x: 110, y: 110}
       Spacing: {x: 10, y: 10}
-  m_DefaultCellSize: {x: 100, y: 100}
+  m_DefaultCellSize: {x: 180, y: 180}
   m_DefaultSpacing: {x: 10, y: 10}
-  m_StartupDefaultGridSize: {x: 4, y: 3}
+  m_StartupDefaultGridSize: {x: 4, y: 2}
 --- !u!114 &2211863317073515226
 MonoBehaviour:
   m_ObjectHideFlags: 0
